@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/caltemose/mealplans/issues"
   },
-  "homepage": "https://github.com/caltemose/mealplans#readme",
+  "homepage": "https://caltemose.github.io/mealplans/",
   "devDependencies": {
     "browser-sync": "^2.18.12",
     "del": "^3.0.0",
