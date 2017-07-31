@@ -1,2 +1,0 @@
-# mealplans
-Weekly meal plans.
