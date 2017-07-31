@@ -53,6 +53,102 @@
                         "title": "Brussel Sprouts"
                     }
                 ]
+            },
+            {
+                "day": "Tuesday",
+                "breakfast": [
+                    {
+                        "title": "Frittata Muffins"
+                    }
+                ],
+                "lunch": [
+                    {
+                        "title": "Salad with leftover chicken"
+                    },
+                    {
+                        "title": "Pickled vegetables"
+                    }
+                ],
+                "dinner": [
+                    {
+                        "title": "Beef Stew"
+                    }
+                ]
+            },
+            {
+                "day": "Wednesday",
+                "breakfast": [
+                    {
+                        "title": "Spinach, egg, ham, coconut pancakes"
+                    }
+                ],
+                "lunch": [
+                    {
+                        "title": "Leftover beef stew"
+                    },
+                    {
+                        "title": "Pickled vegetables"
+                    }
+                ],
+                "dinner": [
+                    {
+                        "title": "Roasted whole cauliflower"
+                    },
+                    {
+                        "title": "Potato/tomato salad"
+                    }
+                ]
+            },
+            {
+                "day": "Thursday",
+                "breakfast": [
+                    {
+                        "title": "Easy breakfast salad"
+                    }
+                ],
+                "lunch": [
+                    {
+                        "title": "Leftover potato/tomato salad"
+                    },
+                    {
+                        "title": "Other leftovers"
+                    },
+                    {
+                        "title": "Pickled vegetables"
+                    }
+                ],
+                "dinner": [
+                    {
+                        "title": "Grilled vegetables"
+                    },
+                    {
+                        "title": "Meatballs or sausage"
+                    }
+                ]
+            },
+            {
+                "day": "Friday",
+                "breakfast": [
+                    {
+                        "title": "Eggs/chicken sausage scramble"
+                    }
+                ],
+                "lunch": [
+                    {
+                        "title": "Leftover grilled veg & meatballs"
+                    },
+                    {
+                        "title": "Other leftovers"
+                    }
+                ],
+                "dinner": [
+                    {
+                        "title": "Steaks"
+                    },
+                    {
+                        "title": "Remaining vegetables"
+                    }
+                ]
             }
         ]
     }

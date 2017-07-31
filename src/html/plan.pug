@@ -4,26 +4,28 @@ block content
     article
         h1= plan.date
         
-        each day in plan.days
-            h2= day.day
-            
-            if day.breakfast
-                h3 Breakfast
-                
-                ul
-                    each item in day.breakfast
-                        li= item.title
-            
-            if day.lunch
-                h3 Lunch
+        .Days
+            each day in plan.days
+                .Day
+                    h2= day.day
+                    
+                    if day.breakfast
+                        h3 Breakfast
+                        
+                        ul
+                            each item in day.breakfast
+                                li= item.title
+                    
+                    if day.lunch
+                        h3 Lunch
 
-                ul
-                    each item in day.lunch
-                        li= item.title
+                        ul
+                            each item in day.lunch
+                                li= item.title
 
-            if day.dinner
-                h3 Dinner
+                    if day.dinner
+                        h3 Dinner
 
-                ul
-                    each item in day.dinner
-                        li= item.title
+                        ul
+                            each item in day.dinner
+                                li= item.title
