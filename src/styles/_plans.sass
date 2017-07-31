@@ -17,9 +17,12 @@ h1
         font-size: 1em
 
 .Day
-    flex: 0 1 auto
-    width: 50%
+    width: 100%
     margin-bottom: 2em
+
+    @media (min-width: 360px)
+        flex: 0 1 auto
+        width: 50%
 
     @media (min-width: 768px)
         flex: 0 1 auto
