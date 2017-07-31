@@ -1,0 +1,10 @@
+extends _layout.pug
+
+block content
+    article
+        h1 Meal Plans
+        
+        ul
+            each file in files
+                li
+                    a(href="plans/" + file + ".html")= file
