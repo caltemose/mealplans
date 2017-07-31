@@ -1,0 +1,135 @@
+{
+    "plan": {
+        "date": "2017-08-06",
+        "days": [
+            {
+                "day": "Sunday",
+                "lunch": [
+                    {
+                        "title": "Salmon Cukes"
+                    }, {
+                        "title": "Roasted Beets"
+                    }, {
+                        "title": "Tomatoes"
+                    }
+                ],
+                "dinner": [
+                    {
+                        "title": "Sauteed Shrimp"
+                    }, {
+                        "title": "Spicy Eggplant"
+                    }, {
+                        "title": "Zucchini and Carrot Noodles"
+                    }
+                ]
+            }, {
+                "day": "Monday",
+                "breakfast": [
+                    {
+                        "title": "Frittata Muffins"
+                    }
+                ],
+                "lunch": [
+                    {
+                        "title": "Tuna Salad (C)"
+                    }, {
+                        "title": "Leftover Meat & 3 (J)"
+                    }
+                ],
+                "dinner": [
+                    {
+                        "title": "Roasted Chicken"
+                    }, {
+                        "title": "Potatoes"
+                    }, {
+                        "title": "Brussel Sprouts"
+                    }
+                ]
+            }, {
+                "day": "Tuesday",
+                "breakfast": [
+                    {
+                        "title": "Frittata Muffins"
+                    }
+                ],
+                "lunch": [
+                    {
+                        "title": "Salad with leftover chicken"
+                    }, {
+                        "title": "Pickled vegetables"
+                    }
+                ],
+                "dinner": [
+                    {
+                        "title": "Beef Stew"
+                    }
+                ]
+            }, {
+                "day": "Wednesday",
+                "breakfast": [
+                    {
+                        "title": "Spinach, egg, ham, coconut pancakes"
+                    }
+                ],
+                "lunch": [
+                    {
+                        "title": "Leftover beef stew"
+                    }, {
+                        "title": "Pickled vegetables"
+                    }
+                ],
+                "dinner": [
+                    {
+                        "title": "Roasted whole cauliflower"
+                    }, {
+                        "title": "Potato/tomato salad"
+                    }
+                ]
+            }, {
+                "day": "Thursday",
+                "breakfast": [
+                    {
+                        "title": "Easy breakfast salad"
+                    }
+                ],
+                "lunch": [
+                    {
+                        "title": "Leftover potato/tomato salad"
+                    }, {
+                        "title": "Other leftovers"
+                    }, {
+                        "title": "Pickled vegetables"
+                    }
+                ],
+                "dinner": [
+                    {
+                        "title": "Grilled vegetables"
+                    }, {
+                        "title": "Meatballs or sausage"
+                    }
+                ]
+            }, {
+                "day": "Friday",
+                "breakfast": [
+                    {
+                        "title": "Eggs/chicken sausage scramble"
+                    }
+                ],
+                "lunch": [
+                    {
+                        "title": "Leftover grilled veg & meatballs"
+                    }, {
+                        "title": "Other leftovers"
+                    }
+                ],
+                "dinner": [
+                    {
+                        "title": "Steaks"
+                    }, {
+                        "title": "Remaining vegetables"
+                    }
+                ]
+            }
+        ]
+    }
+}

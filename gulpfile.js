@@ -47,6 +47,9 @@ gulp.task('html', () => {
     for(let i=0; i<files.length; i++) {
         names.push(path.parse(files[i]).name)
     }
+    names.sort()
+    names.reverse()
+    console.log(names)
     return gulp.src('src/html/index.pug')
         .pipe(pug({
             data: {

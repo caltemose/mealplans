@@ -1,34 +1,30 @@
 h1
-    padding: 0 0 0.5em 0.4rem
+    padding: 0 0 0.5em
     border-bottom: 1px solid #ddd
-
-    @media (min-width: 768px)
-        padding-left: 1rem
 
 .Days
     display: flex
     align-items: stretch
     flex-flow: row wrap
-    padding: 0 0.2em 0 0.4rem
+    padding: 0 0.2em 0 0
     font-size: 0.9em
 
-    @media (min-width: 768px)
-        padding-left: 1rem
+    @media (min-width: $bp-medium)
         font-size: 1em
 
 .Day
     width: 100%
     margin-bottom: 2em
 
-    @media (min-width: 360px)
+    @media (min-width: $bp-small)
         flex: 0 1 auto
         width: 50%
 
-    @media (min-width: 768px)
+    @media (min-width: $bp-medium)
         flex: 0 1 auto
         width: 33.333%
     
-    @media (min-width: 1024px)
+    @media (min-width: $bp-large)
         width: 25%
 
 
