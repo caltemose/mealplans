@@ -3,77 +3,65 @@
         "date": "2017-08-06",
         "days": [
             {
-                "day": "Sunday",
-                "lunch": [
-                    {
-                        "title": "Salmon Cukes"
-                    }, {
-                        "title": "Roasted Beets"
-                    }, {
-                        "title": "Tomatoes"
-                    }
-                ],
-                "dinner": [
-                    {
-                        "title": "Sauteed Shrimp"
-                    }, {
-                        "title": "Spicy Eggplant"
-                    }, {
-                        "title": "Zucchini and Carrot Noodles"
-                    }
-                ]
-            }, {
                 "day": "Monday",
                 "breakfast": [
                     {
-                        "title": "Frittata Muffins"
+                        "title": "Chicken meatballs and veg (C)"
+                    }, {
+                        "title": "Deviled Eggs (J)"
                     }
                 ],
                 "lunch": [
                     {
-                        "title": "Tuna Salad (C)"
+                        "title": "Sausage, beans, carrots, strawberries (J)"
                     }, {
-                        "title": "Leftover Meat & 3 (J)"
+                        "title": "Meatballs + vegetables (C)"
                     }
                 ],
                 "dinner": [
                     {
-                        "title": "Roasted Chicken"
+                        "title": "Sauteed Dover Sole"
                     }, {
-                        "title": "Potatoes"
+                        "title": "Grilled asparagus"
                     }, {
-                        "title": "Brussel Sprouts"
+                        "title": "Corn"
                     }
                 ]
             }, {
                 "day": "Tuesday",
                 "breakfast": [
                     {
-                        "title": "Frittata Muffins"
+                        "title": "Frittata Muffins (C)"
+                    }, {
+                        "title": "Deviled Eggs (J)"
                     }
                 ],
                 "lunch": [
                     {
-                        "title": "Salad with leftover chicken"
+                        "title": "Tuna cakes (C)"
                     }, {
-                        "title": "Pickled vegetables"
+                        "title": "Meatballs + vegetables (J)"
+                    }, {
+                        "title": "Tomato/cuke salad"
                     }
                 ],
                 "dinner": [
                     {
-                        "title": "Beef Stew"
+                        "title": "Thai Coco Soup w/chicken"
                     }
                 ]
             }, {
                 "day": "Wednesday",
                 "breakfast": [
                     {
-                        "title": "Spinach, egg, ham, coconut pancakes"
+                        "title": "Frittata muffins (C)"
+                    }, {
+                        "title": "Deviled Eggs (J)"
                     }
                 ],
                 "lunch": [
                     {
-                        "title": "Leftover beef stew"
+                        "title": "Meatballs + vegetables (J)"
                     }, {
                         "title": "Pickled vegetables"
                     }
@@ -82,51 +70,49 @@
                     {
                         "title": "Roasted whole cauliflower"
                     }, {
-                        "title": "Potato/tomato salad"
+                        "title": "Sweet potato vegetable casserole"
                     }
                 ]
             }, {
                 "day": "Thursday",
                 "breakfast": [
                     {
-                        "title": "Easy breakfast salad"
+                        "title": "Eggs + veg (C)"
                     }
                 ],
                 "lunch": [
                     {
-                        "title": "Leftover potato/tomato salad"
+                        "title": "Salmon salad"
                     }, {
-                        "title": "Other leftovers"
+                        "title": "Slaw"
                     }, {
                         "title": "Pickled vegetables"
                     }
                 ],
                 "dinner": [
                     {
-                        "title": "Grilled vegetables"
-                    }, {
-                        "title": "Meatballs or sausage"
+                        "title": "Pork chop + greens"
                     }
                 ]
             }, {
                 "day": "Friday",
                 "breakfast": [
                     {
-                        "title": "Eggs/chicken sausage scramble"
+                        "title": "Easy breakfast salad & eggs"
                     }
                 ],
                 "lunch": [
                     {
-                        "title": "Leftover grilled veg & meatballs"
+                        "title": "Mediterranean chicken salad"
                     }, {
-                        "title": "Other leftovers"
+                        "title": "Various leftovers"
                     }
                 ],
                 "dinner": [
                     {
-                        "title": "Steaks"
+                        "title": "Hangar steak or similar"
                     }, {
-                        "title": "Remaining vegetables"
+                        "title": "Brussel sprouts"
                     }
                 ]
             }
