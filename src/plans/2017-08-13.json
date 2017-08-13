@@ -1,0 +1,136 @@
+{
+    "plan": {
+        "date": "2017-08-13",
+        "days": [
+            {
+                "day": "Sunday",
+                "dinner": [
+                    {
+                        "title": "Fish"
+                    }, {
+                        "title": "Cucumber/tomato salad"
+                    }, {
+                        "title": "Purple sweet potato"
+                    }, {
+                        "title": "Sauteed okra"
+                    }
+                ]
+            },
+            {
+                "day": "Monday",
+                "breakfast": [
+                    {
+                        "title": "Spinach, egg, turkey bacon, coconut pancakes (C)"
+                    }, {
+                        "title": "Deviled Eggs (J)"
+                    }
+                ],
+                "lunch": [
+                    {
+                        "title": "Sausage and vegetables (J)"
+                    }, {
+                        "title": "Spicy tuna cakes (C)"
+                    }, {
+                        "title": "Gazpacho"
+                    }
+                ],
+                "dinner": [
+                    {
+                        "title": "Sauteed shrimp"
+                    }, {
+                        "title": "Brussel sprouts"
+                    }, {
+                        "title": "Cucumber/tomato salad"
+                    }
+                ]
+            }, {
+                "day": "Tuesday",
+                "breakfast": [
+                    {
+                        "title": "Spinach, egg, ham, coconut pancakes (C)"
+                    }, {
+                        "title": "Deviled Eggs (J)"
+                    }
+                ],
+                "lunch": [
+                    {
+                        "title": "Sausage and vegetables (J)"
+                    }, {
+                        "title": "Spicy tuna cakes (C)"
+                    }, {
+                        "title": "Gazpacho"
+                    }
+                ],
+                "dinner": [
+                    {
+                        "title": "Meatloaf"
+                    }, {
+                        "title": "Whole roasted cauliflower"
+                    }
+                ]
+            }, {
+                "day": "Wednesday",
+                "breakfast": [
+                    {
+                        "title": "Spinach, egg, ham, coconut pancakes (C)"
+                    }, {
+                        "title": "Deviled Eggs (J)"
+                    }
+                ],
+                "lunch": [
+                    {
+                        "title": "Sausage and vegetables (J)"
+                    }, {
+                        "title": "Spicy tuna cakes (C)"
+                    }, {
+                        "title": "Leftover meatloaf"
+                    }
+                ],
+                "dinner": [
+                    {
+                        "title": "Sweet potato vegetable casserole"
+                    }, {
+                        "title": "Cucumber/tomato salad"
+                    }
+                ]
+            }, {
+                "day": "Thursday",
+                "breakfast": [
+                    {
+                        "title": "Deviled eggs (J)"
+                    }, {
+                        "title": "Easy breakfast salad & eggs"
+                    }
+                ],
+                "lunch": [
+                    {
+                        "title": "Leftover meatloaf & Sweet potato casserole"
+                    }, {
+                        "title": "Slaw"
+                    }, {
+                        "title": "Pickled vegetables"
+                    }
+                ],
+                "dinner": [
+                    {
+                        "title": "Cleanup and/or baccala fritters"
+                    }
+                ]
+            }, {
+                "day": "Friday",
+                "breakfast": [
+                    {
+                        "title": "Easy breakfast salad & eggs (C)"
+                    }, {
+                        "title": "Deviled Eggs (J)"
+                    }
+                ],
+                "lunch": [
+                    {
+                        "title": "Cleanup or lunch out"
+                    }
+                ]
+            }
+        ]
+    }
+}
