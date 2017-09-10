@@ -1,0 +1,93 @@
+{
+    "plan": {
+        "date": "2017-09-10",
+        "days": [
+            {
+                "day": "Sunday",
+                "breakfast": [
+                    { "title": "Sweet Potato Hash & Eggs" }
+                ],
+                "lunch": [
+                    { "title": "Root Veggie Cakes" },
+                    { "title": "Cuke/Radish/Arugula salad" }
+                ],
+                "dinner": [
+                    { "title": "Slow Roasted Pork Shoulder" },
+                    { "title": "Yellow Beans" },
+                    { "title": "Cole Slaw" },
+                    { "title": "Apple Sauce" }
+                ]
+            },
+            {
+                "day": "Monday",
+                "breakfast": [
+                    { "title": "Sausage + Kale Egg Muffins (C)" }, 
+                    { "title": "Deviled Eggs (J)" },
+                    { "title": "Gazpacho (J)" }
+                ],
+                "lunch": [
+                    { "title": "Leftover Pork & Vegetables (J)" },
+                    { "title": "Leftover Root Veggie Cakes (C)" },
+                    { "title": "Gazpacho (C)" }
+                ],
+                "dinner": [
+                    { "title": "Thai Coconut Soup" }
+                ]
+            }, {
+                "day": "Tuesday",
+                "breakfast": [
+                    { "title": "Sausage + Kale Egg Muffins (C)" }, 
+                    { "title": "Deviled Eggs (J)" },
+                    { "title": "Gazpacho (J)" }
+                ],
+                "lunch": [
+                    { "title": "Leftover Root Veggie Cakes, Leftover Pork, Vegetables (J)" },
+                    { "title": "Salmon Cakes (C)" }, 
+                    { "title": "Tomatoes (C)" }
+                ],
+                "dinner": [
+                    { "title": "Doro Wat (Chicken Stew)" }, 
+                    { "title": "Ankilt (Potatoes/Cabbage/Carrots" }
+                ]
+            }, {
+                "day": "Wednesday",
+                "breakfast": [
+                    { "title": "Sausage + Kale Egg Muffins (C)" }, 
+                    { "title": "Deviled Eggs (J)" },
+                    { "title": "Gazpacho (J)" }
+                ],
+                "lunch": [
+                    { "title": "Salmon Cakes (C)" },
+                    { "title": "Leftover Remainers (ethiopian, cakes, pork, veg) (J)" }
+                ],
+                "dinner": [
+                    { "title": "Cauliflower Fried Rice" }
+                ]
+            }, {
+                "day": "Thursday",
+                "breakfast": [
+                    { "title": "Leftover egg muffins & cakes" },
+                    { "title": "Gazpacho (J)" }
+                ],
+                "lunch": [
+                    { "title": "Various leftovers & remaining cakes" }
+                ],
+                "dinner": [
+                    { "title": "Cold Ramen Salad/Bibimbap (modified)" }
+                ]
+            }, {
+                "day": "Friday",
+                "breakfast": [
+                    { "title": "Leftover egg muffins & cakes" },
+                    { "title": "Gazpacho (J)" }
+                ],
+                "lunch": [
+                    { "title": "Various leftovers" }
+                ],
+                "dinner": [
+                    { "title": "Grilled Sausages & Vegetable Cleanup" }
+                ]
+            }
+        ]
+    }
+}
