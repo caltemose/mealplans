@@ -29,3 +29,10 @@ block content
                         ul
                             each item in day.dinner
                                 li= item.title
+
+        h2 Notes
+
+        if plan.notes
+            ul.Notes
+                each note in plan.notes
+                    li.Note= note
