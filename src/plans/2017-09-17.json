@@ -5,7 +5,7 @@
             {
                 "day": "Sunday",
                 "lunch": [
-                    { "title": "Cobb Salad" }
+                    { "title": "Cobb Salad", "url": "https://meljoulwan.com/2017/07/10/paleo-cobb-salad/" }
                 ],
                 "dinner": [
                     { "title": "Thai Broccoli Shrimp" }
@@ -15,7 +15,7 @@
                 "day": "Monday",
                 "breakfast": [
                     { "title": "Deviled Eggs & Gazpacho (J)" },
-                    { "title": "Greens/Ham/Eggs/Coconut Pancakes (C)" }
+                    { "title": "Greens/Ham/Eggs/Coconut Pancakes (C)", "url": "http://nomnompaleo.com/post/5568966009/egg-foo-young-ish-spinach-egg-ham-coconut" }
                 ],
                 "lunch": [
                     { "title": "Sausage & Vegetables (J)" },
@@ -50,7 +50,7 @@
                     { "title": "Salmon Cakes (C)" }
                 ],
                 "dinner": [
-                    { "title": "Tomato/Beef/Eggplant Goulash" }
+                    { "title": "Tomato/Beef/Eggplant Goulash", "url": "https://physicalkitchness.com/paleo-tomato-basil-beef-goulash-with-eggplant/" }
                 ]
             }, {
                 "day": "Thursday",
@@ -73,7 +73,7 @@
                     { "title": "Leftover cleanup" }
                 ],
                 "dinner": [
-                    { "title": "Sheet Pan Fajitas" }
+                    { "title": "Sheet Pan Fajitas", "url": "https://laughingspatula.com/sheet-pan-fajitas/" }
                 ]
             }, {
                 "day": "Saturday",

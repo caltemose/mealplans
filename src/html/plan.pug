@@ -1,4 +1,5 @@
 extends _layout.pug
+include _item.pug
 
 block content
     article
@@ -14,21 +15,21 @@ block content
                         
                         ul
                             each item in day.breakfast
-                                li= item.title
+                                +itemLi(item)
                     
                     if day.lunch
                         h3 Lunch
 
                         ul
                             each item in day.lunch
-                                li= item.title
+                                +itemLi(item)
 
                     if day.dinner
                         h3 Dinner
 
                         ul
                             each item in day.dinner
-                                li= item.title
+                                +itemLi(item)
 
         h2 Notes
 
