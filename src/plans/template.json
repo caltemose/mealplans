@@ -1,0 +1,78 @@
+{
+    "plan": {
+        "date": "2017-09-10",
+        "days": [
+            {
+                "day": "Sunday",
+                "breakfast": [
+                    { "title": "" }
+                ],
+                "lunch": [
+                    { "title": "" }
+                ],
+                "dinner": [
+                    { "title": "" }
+                ]
+            },
+            {
+                "day": "Monday",
+                "breakfast": [
+                    { "title": "" }
+                ],
+                "lunch": [
+                    { "title": "" }
+                ],
+                "dinner": [
+                    { "title": "" }
+                ]
+            }, {
+                "day": "Tuesday",
+                "breakfast": [
+                    { "title": "" }
+                ],
+                "lunch": [
+                    { "title": "" }
+                ],
+                "dinner": [
+                    { "title": "" }
+                ]
+            }, {
+                "day": "Wednesday",
+                "breakfast": [
+                    { "title": "" }
+                ],
+                "lunch": [
+                    { "title": "" }
+                ],
+                "dinner": [
+                    { "title": "" }
+                ]
+            }, {
+                "day": "Thursday",
+                "breakfast": [
+                    { "title": "" }
+                ],
+                "lunch": [
+                    { "title": "" }
+                ],
+                "dinner": [
+                    { "title": "" }
+                ]
+            }, {
+                "day": "Friday",
+                "breakfast": [
+                    { "title": "" }
+                ],
+                "lunch": [
+                    { "title": "" }
+                ],
+                "dinner": [
+                    { "title": "" }
+                ]
+            }
+        ],
+        "notes": [
+            "Notes go here"
+        ]
+    }
+}

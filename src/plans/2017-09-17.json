@@ -1,0 +1,90 @@
+{
+    "plan": {
+        "date": "2017-09-17",
+        "days": [
+            {
+                "day": "Sunday",
+                "lunch": [
+                    { "title": "Cobb Salad" }
+                ],
+                "dinner": [
+                    { "title": "Thai Broccoli Shrimp" }
+                ]
+            },
+            {
+                "day": "Monday",
+                "breakfast": [
+                    { "title": "Deviled Eggs & Gazpacho (J)" },
+                    { "title": "Greens/Ham/Eggs/Coconut Pancakes (C)" }
+                ],
+                "lunch": [
+                    { "title": "Sausage & Vegetables (J)" },
+                    { "title": "Salmon Cakes (C)" }
+                ],
+                "dinner": [
+                    { "title": "Roasted Chicken" },
+                    { "title": "Mashed Potatoes" },
+                    { "title": "Roasted Green Beans" },
+                    { "title": "Roasted Beets" }
+                ]
+            }, {
+                "day": "Tuesday",
+                "breakfast": [
+                    { "title": "Deviled Eggs & Gazpacho (J)" },
+                    { "title": "Greens/Ham/Eggs/Coconut Pancakes (C)" }
+                ],
+                "lunch": [
+                    { "title": "Leftover Chicken (J)" },
+                    { "title": "Salmon Cakes (C)" }
+                ],
+                "dinner": [
+                    { "title": "Tortilla Español" },
+                    { "title": "Spinach salad" }
+                ]
+            }, {
+                "day": "Wednesday",
+                "breakfast": [
+                    { "title": "Greens/Ham/Eggs/Coconut Pancakes (C)" }
+                ],
+                "lunch": [
+                    { "title": "Salmon Cakes (C)" }
+                ],
+                "dinner": [
+                    { "title": "Tomato/Beef/Eggplant Goulash" }
+                ]
+            }, {
+                "day": "Thursday",
+                "breakfast": [
+                    { "title": "Deviled Eggs & Gazpacho (J)" },
+                    { "title": "Greens/Ham/Eggs/Coconut Pancakes (C)" }
+                ],
+                "lunch": [
+                    { "title": "Leftover Goulash (C)" }
+                ],
+                "dinner": [
+                    { "title": "Evil Jungle Prince Pork" }
+                ]
+            }, {
+                "day": "Friday",
+                "breakfast": [
+                    { "title": "Easy Breakfast Salad" }
+                ],
+                "lunch": [
+                    { "title": "Leftover cleanup" }
+                ],
+                "dinner": [
+                    { "title": "Sheet Pan Fajitas" }
+                ]
+            }, {
+                "day": "Saturday",
+                "lunch": [
+                    { "title": "Grilled chicken" },
+                    { "title": "Farmer's Market vegetables" }
+                ]
+            }
+        ],
+        "notes": [
+            "Juli travels Wed/morn through Thurs/lunch"
+        ]
+    }
+}
