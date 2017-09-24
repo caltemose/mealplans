@@ -1,14 +1,17 @@
 {
     "plan": {
-        "date": "2017-09-17",
+        "date": "2017-09-24",
         "days": [
             {
                 "day": "Sunday",
                 "lunch": [
-                    { "title": "Cobb Salad", "url": "https://meljoulwan.com/2017/07/10/paleo-cobb-salad/" }
+                    { "title": "Easy Breakfast Salad", "url": "https://stupideasypaleo.com/2013/07/05/easy-breakfast-salad/" }
                 ],
                 "dinner": [
-                    { "title": "Thai Broccoli Shrimp" }
+                    { "title": "Tilapia" },
+                    { "title": "Baked Sweet Potato" },
+                    { "title": "Carrots" },
+                    { "title": "Cucumber Salad" }
                 ]
             },
             {
@@ -19,13 +22,10 @@
                 ],
                 "lunch": [
                     { "title": "Sausage & Vegetables (J)" },
-                    { "title": "Salmon Cakes (C)" }
+                    { "title": "Salmon Salad Wraps (C)" }
                 ],
                 "dinner": [
-                    { "title": "Roasted Chicken" },
-                    { "title": "Mashed Potatoes" },
-                    { "title": "Roasted Green Beans" },
-                    { "title": "Roasted Beets" }
+                    { "title": "Pork Chops, Apples & Brussel Sprouts" }
                 ]
             }, {
                 "day": "Tuesday",
@@ -34,12 +34,10 @@
                     { "title": "Greens/Ham/Eggs/Coconut Pancakes (C)" }
                 ],
                 "lunch": [
-                    { "title": "Leftover Chicken (J)" },
-                    { "title": "Salmon Cakes (C)" }
+                    { "title": "Salmon Salad Wraps (C)" }
                 ],
                 "dinner": [
-                    { "title": "Tortilla Español" },
-                    { "title": "Spinach salad" }
+                    { "title": "Chicken Meatloaf & Veg" }
                 ]
             }, {
                 "day": "Wednesday",
@@ -47,10 +45,10 @@
                     { "title": "Greens/Ham/Eggs/Coconut Pancakes (C)" }
                 ],
                 "lunch": [
-                    { "title": "Salmon Cakes (C)" }
+                    { "title": "Salmon Salad Wraps and/or Meatloaf" }
                 ],
                 "dinner": [
-                    { "title": "Tomato/Beef/Eggplant Goulash", "url": "https://physicalkitchness.com/paleo-tomato-basil-beef-goulash-with-eggplant/" }
+                    { "title": "Pizza Noodles", "url": "https://meljoulwan.com/2017/01/30/paleo-pizza-noodles/" }
                 ]
             }, {
                 "day": "Thursday",
@@ -59,35 +57,26 @@
                     { "title": "Greens/Ham/Eggs/Coconut Pancakes (C)" }
                 ],
                 "lunch": [
-                    { "title": "Leftover Goulash (C)" }
+                    { "title": "Leftovers" }
                 ],
                 "dinner": [
-                    { "title": "Evil Jungle Prince Pork" }
+                    { "title": "Chicken Meatballs with Peppers and Olives" }
                 ]
             }, {
                 "day": "Friday",
                 "breakfast": [
-                    { "title": "Easy Breakfast Salad" }
+                    { "title": "Leftovers" }
                 ],
                 "lunch": [
-                    { "title": "Leftover cleanup" }
+                    { "title": "Leftovers" }
                 ],
                 "dinner": [
-                    { "title": "Sheet Pan Fajitas", "url": "https://laughingspatula.com/sheet-pan-fajitas/" }
-                ]
-            }, {
-                "day": "Saturday",
-                "lunch": [
-                    { "title": "Grilled chicken" },
-                    { "title": "Farmer's Market vegetables" }
+                    { "title": "Thai curry veg & fish" }
                 ]
             }
         ],
         "notes": [
-            "Salmon cakes were pretty lame and bricky & canned salmon sucked.",
-            "Potatoes for tortilla cooked with chicken broth to deglaze were great. Using 9x12 pan also worked better.",
-            "Didn't make breakfast pancakes - just rummaged then switched to leftover tortilla.",
-            "Didn't make sheet pan fajitas - improvised thai dish over cabbage"
+            "Juli out Tuesday/morn through Wed/eve"
         ]
     }
 }

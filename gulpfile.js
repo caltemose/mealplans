@@ -45,7 +45,10 @@ gulp.task('html', () => {
     const files = listDir.sync('src/plans')
     const names = []
     for(let i=0; i<files.length; i++) {
-        names.push(path.parse(files[i]).name)
+        const fileName = path.parse(files[i]).name
+        if (fileName !== 'template') {
+            names.push(fileName)
+        }
     }
     names.sort()
     names.reverse()
