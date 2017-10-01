@@ -1,0 +1,92 @@
+{
+    "plan": {
+        "date": "2017-10-01",
+        "days": [
+            {
+                "day": "Sunday",
+                "lunch": [
+                    { "title": "Chicken Apple Sausage" }
+                ],
+                "dinner": [
+                    { "title": "Sauteed Shrimp" },
+                    { "title": "Green Beans" },
+                    { "title": "Baked Sweet Potatoes" }
+                ]
+            },
+            {
+                "day": "Monday",
+                "breakfast": [
+                    { "title": "Deviled Eggs & Gazpacho (J)" },
+                    { "title": "Frittata Muffins (C)" }
+                ],
+                "lunch": [
+                    { "title": "Sausage & Vegetables (J)" },
+                    { "title": "Chicken Stew (C)" }
+                ],
+                "dinner": [
+                    { "title": "Doro Wat", "url": "http://nomnompaleo.com/post/55432334180/doro-wat-spicy-ethiopian-chicken-stew" },
+                    { "title": "Potato/Carrot/Cabbage", "url": "http://nomnompaleo.com/post/97731264703/paleo-by-seasons-atkilt-spiced-ethiopian" }
+                ]
+            },
+            {
+                "day": "Tuesday",
+                "breakfast": [
+                    { "title": "Deviled Eggs & Gazpacho (J)" },
+                    { "title": "Frittata Muffins (C)" }
+                ],
+                "lunch": [
+                    { "title": "Leftover Ethiopian (J)" },
+                    { "title": "Chicken Stew (C)" }
+                ],
+                "dinner": [
+                    { "title": "Shepard's Pie" }
+                ]
+            },
+            {
+                "day": "Wednesday",
+                "breakfast": [
+                    { "title": "Deviled Eggs & Gazpacho (J)" },
+                    { "title": "Frittata Muffins (C)" }
+                ],
+                "lunch": [
+                    { "title": "Leftover Shep's Pie (J)" },
+                    { "title": "Leftovers (C)" }
+                ],
+                "dinner": [
+                    { "title": "Tortilla Espanol" },
+                    { "title": "Coleslaw" }
+                ]
+            },
+            {
+                "day": "Thursday",
+                "breakfast": [
+                    { "title": "Deviled Eggs & Gazpacho (J)" },
+                    { "title": "Frittata Muffins (C)" }
+                ],
+                "lunch": [
+                    { "title": "Leftover Shep's Pie/Tortilla" },
+                    { "title": "Coleslaw" }
+                ],
+                "dinner": [
+                    { "title": "Cauliflower Fried Rice" }
+                ]
+            },
+            {
+                "day": "Friday",
+                "breakfast": [
+                    { "title": "Deviled Eggs & Gazpacho (J)" },
+                    { "title": "Frittata Muffins (C)" }
+                ],
+                "lunch": [
+                    { "title": "Leftovers" }
+                ],
+                "dinner": [
+                    { "title": "Bibimbap" }
+                ]
+            }
+        ],
+        "notes": [
+            "Last week of Whole30"
+        ]
+    }
+}

@@ -22,7 +22,7 @@
                 ],
                 "lunch": [
                     { "title": "Sausage & Vegetables (J)" },
-                    { "title": "Salmon Salad Wraps (C)" }
+                    { "title": "Leftover cleanup (C)" }
                 ],
                 "dinner": [
                     { "title": "Pork Chops, Apples & Brussel Sprouts" }
@@ -76,7 +76,10 @@
             }
         ],
         "notes": [
-            "Juli out Tuesday/morn through Wed/eve"
+            "Made the meatloaf with beef since it was on sale.",
+            "Salmon was roughly 2 LBS which was a good amount. Could be slightly less.",
+            "Shifted Wed/Thu meals to Thu/Fri and ate leftovers on Wed since Juli was away.",
+            "Apples & Plums braised in apple juice are ridiculously good."
         ]
     }
 }
