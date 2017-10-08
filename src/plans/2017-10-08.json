@@ -1,0 +1,88 @@
+{
+    "plan": {
+        "date": "2017-10-08",
+        "days": [
+            {
+                "day": "Sunday",
+                "lunch": [
+                    { "title": "Chicken Apple Sausage + various root veg mixup" },
+                    { "title": "No-knead Bread" }
+                ],
+                "dinner": [
+                    { "title": "Squash/Sweet Potato Ravioli" },
+                    { "title": "No-knead Bread" },
+                    { "title": "Broccoli" }
+                ]
+            },
+            {
+                "day": "Monday",
+                "breakfast": [
+                    { "title": "Deviled Eggs & Gazpacho (J)" }
+                ],
+                "lunch": [
+                    { "title": "Various leftovers (J)" },
+                    { "title": "Mediterranean Chicken Salad (C)" }
+                ],
+                "dinner": [
+                    { "title": "Sauteed Cod" },
+                    { "title": "Roasted Whole Cauliflower" }
+                ]
+            },
+            {
+                "day": "Tuesday",
+                "breakfast": [
+                    { "title": "Deviled Eggs & Gazpacho (J)" },
+                    { "title": "Tortilla Espanol (C)" }
+                ],
+                "lunch": [
+                    { "title": "Root Veggie Cakes (C)" }
+                ],
+                "dinner": [
+                    { "title": "Pork Stew" }
+                ]
+            },
+            {
+                "day": "Wednesday",
+                "breakfast": [
+                    { "title": "Deviled Eggs & Gazpacho (J)" },
+                    { "title": "Tortilla Espanol (C)" }
+                ],
+                "lunch": [
+                    { "title": "Leftovers (C)" }
+                ],
+                "dinner": [
+                    { "title": "Zucchini Noodles w/Meat Sauce" }
+                ]
+            },
+            {
+                "day": "Thursday",
+                "breakfast": [
+                    { "title": "Deviled Eggs & Gazpacho (J)" },
+                    { "title": "Tortilla (C)" }
+                ],
+                "lunch": [
+                    { "title": "Leftovers" }
+                ],
+                "dinner": [
+                    { "title": "Turkey Meatballs w/Cabbage" }
+                ]
+            },
+            {
+                "day": "Friday",
+                "breakfast": [
+                    { "title": "Deviled Eggs & Gazpacho (J)" },
+                    { "title": "Tortilla (C)" }
+                ],
+                "lunch": [
+                    { "title": "Leftovers" }
+                ],
+                "dinner": [
+                    { "title": "Korean Pancakes" }
+                ]
+            }
+        ],
+        "notes": [
+            "First week of Whole30 experimentation starting with flour/gluten on Sunday."
+        ]
+    }
+}
