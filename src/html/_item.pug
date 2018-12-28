@@ -1,5 +1,5 @@
 mixin itemLi(item)
     li
-        | #{item.title}
+        | !{item.title}
         if item.url
             a.RecipeLink(href=item.url) [link]

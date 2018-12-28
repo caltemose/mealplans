@@ -1,31 +1,8 @@
 {
     "plan": {
-        "date": "2017-09-10",
+        "date": "2018-12-30",
         "days": [
             {
-                "day": "Sunday",
-                "breakfast": [
-                    { "title": "" }
-                ],
-                "lunch": [
-                    { "title": "" }
-                ],
-                "dinner": [
-                    { "title": "" }
-                ]
-            },
-            {
-                "day": "Monday",
-                "breakfast": [
-                    { "title": "" }
-                ],
-                "lunch": [
-                    { "title": "" }
-                ],
-                "dinner": [
-                    { "title": "" }
-                ]
-            }, {
                 "day": "Tuesday",
                 "breakfast": [
                     { "title": "" }
@@ -34,18 +11,18 @@
                     { "title": "" }
                 ],
                 "dinner": [
-                    { "title": "" }
+                    { "title": "Chili" }
                 ]
             }, {
                 "day": "Wednesday",
                 "breakfast": [
-                    { "title": "" }
+                    { "title": "Egg/Sausage/Greens Patties" }
                 ],
                 "lunch": [
-                    { "title": "" }
+                    { "title": "Leftover Chili" }
                 ],
                 "dinner": [
-                    { "title": "" }
+                    { "title": "Shepard's Pie" }
                 ]
             }, {
                 "day": "Thursday",
@@ -53,10 +30,10 @@
                     { "title": "" }
                 ],
                 "lunch": [
-                    { "title": "" }
+                    { "title": "Leftover Chili/Shep's Pie" }
                 ],
                 "dinner": [
-                    { "title": "" }
+                    { "title": "Thai Curry Chicken w/Cabbage" }
                 ]
             }, {
                 "day": "Friday",
@@ -64,10 +41,10 @@
                     { "title": "" }
                 ],
                 "lunch": [
-                    { "title": "" }
+                    { "title": "Leftovers" }
                 ],
                 "dinner": [
-                    { "title": "" }
+                    { "title": "Cauliflower Fried &ldquo;Rice&rdquo;" }
                 ]
             }, {
                 "day": "Saturday",

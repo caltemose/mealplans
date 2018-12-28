@@ -96,7 +96,7 @@ gulp.task('serve', () => {
         server: {
             baseDir: './dist'
         },
-        port: 3333,
+        port: 3232,
         notify: false,
         open: false
     })
